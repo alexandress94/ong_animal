@@ -66,6 +66,9 @@ Arquitetura limpa;
 * Filtro por categoria;
 <br>
 
+* Botão de logout para iniciar uma nova sessão.
+<br>
+
 # Como testar o app?
 <br>
 
