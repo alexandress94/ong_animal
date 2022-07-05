@@ -11,8 +11,8 @@ class SplashPage extends GetView<SplashController> {
       body: Center(
         child: Image.asset(
           'assets/images/logo.png',
-          width: 250,
-          height: 250,
+          width: 180,
+          height: 180,
         ),
       ),
     );

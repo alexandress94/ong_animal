@@ -8,10 +8,22 @@
       "languageVersion": "2.16"
     },
     {
-      "name": "async",
-      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.9.0",
+      "name": "archive",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/archive-3.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "boolean_selector",
@@ -39,13 +51,19 @@
     },
     {
       "name": "characters",
-      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.2.1",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "clock",
-      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/clock-1.1.1",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/clock-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -81,7 +99,7 @@
     },
     {
       "name": "fake_async",
-      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.3.1",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -101,7 +119,7 @@
       "name": "flutter",
       "rootUri": "file:///C:/Developer/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.12"
     },
     {
       "name": "flutter_blurhash",
@@ -116,10 +134,10 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "flutter_lints",
-      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-2.0.1",
+      "name": "flutter_launcher_icons",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_launcher_icons-0.9.3",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.12"
     },
     {
       "name": "flutter_screenutil",
@@ -158,10 +176,10 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "lints",
-      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/lints-2.0.0",
+      "name": "image",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image-3.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.15"
     },
     {
       "name": "logger",
@@ -177,13 +195,13 @@
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/material_color_utilities-0.1.5",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/material_color_utilities-0.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.13"
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.8.0",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -195,7 +213,7 @@
     },
     {
       "name": "path",
-      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.2",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -248,6 +266,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/petitparser-5.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "platform",
       "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/platform-3.1.0",
       "packageUri": "lib/",
@@ -279,7 +303,7 @@
     },
     {
       "name": "source_span",
-      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.9.0",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.2",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -309,7 +333,7 @@
     },
     {
       "name": "string_scanner",
-      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.1",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -321,7 +345,7 @@
     },
     {
       "name": "term_glyph",
-      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.1",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -368,13 +392,25 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "xml",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/xml-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///C:/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "ong_animals",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-07-05T11:59:43.702412Z",
+  "generated": "2022-07-05T16:19:55.478763Z",
   "generator": "pub",
-  "generatorVersion": "2.18.0-228.0.dev"
+  "generatorVersion": "2.17.5"
 }
