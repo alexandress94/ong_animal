@@ -57,6 +57,15 @@ Package: Get, Either, GetStorage, CachedNetworkImage, Logger;
 Arquitetura limpa;
 <br>
 
+# O que consta nesta versão:
+<br>
+
+* Login persistente, após fechar o app o próximo login será automático;
+<br>
+
+* Filtro por categoria;
+<br>
+
 # Como testar o app?
 <br>
 
