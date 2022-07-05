@@ -57,6 +57,9 @@ Package: Get, Either, GetStorage, CachedNetworkImage, Logger;
 Arquitetura limpa;
 <br>
 
+Código limpo.
+<br>
+
 # O que consta nesta versão:
 <br>
 
